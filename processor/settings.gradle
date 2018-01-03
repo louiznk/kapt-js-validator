@@ -1,0 +1,3 @@
+rootProject.name = 'processor'
+rootProject.buildFileName = 'build.gradle.kts'
+
